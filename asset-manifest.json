@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecu-sample/static/css/main.8a5ca94f.chunk.css",
+    "main.js": "/ecu-sample/static/js/main.896d3c6a.chunk.js",
+    "main.js.map": "/ecu-sample/static/js/main.896d3c6a.chunk.js.map",
+    "runtime-main.js": "/ecu-sample/static/js/runtime-main.ffd9ae49.js",
+    "runtime-main.js.map": "/ecu-sample/static/js/runtime-main.ffd9ae49.js.map",
+    "static/js/2.e8b8b5e7.chunk.js": "/ecu-sample/static/js/2.e8b8b5e7.chunk.js",
+    "static/js/2.e8b8b5e7.chunk.js.map": "/ecu-sample/static/js/2.e8b8b5e7.chunk.js.map",
+    "index.html": "/ecu-sample/index.html",
+    "precache-manifest.4d4ce111f7b41e49c7552ab4c5a8b632.js": "/ecu-sample/precache-manifest.4d4ce111f7b41e49c7552ab4c5a8b632.js",
+    "service-worker.js": "/ecu-sample/service-worker.js",
+    "static/css/main.8a5ca94f.chunk.css.map": "/ecu-sample/static/css/main.8a5ca94f.chunk.css.map",
+    "static/js/2.e8b8b5e7.chunk.js.LICENSE.txt": "/ecu-sample/static/js/2.e8b8b5e7.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/ecu-sample/static/media/fa-solid-900.9ae050d1.woff2",
+    "static/media/krakenimages.jpg": "/ecu-sample/static/media/krakenimages.e4ce8eec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd9ae49.js",
+    "static/js/2.e8b8b5e7.chunk.js",
+    "static/css/main.8a5ca94f.chunk.css",
+    "static/js/main.896d3c6a.chunk.js"
+  ]
+}
